@@ -7,3 +7,7 @@ This is a "Bank Services Rating" web application project, a platform for consume
 ## User Interfaces Screenshots
 
 Please find the UI screenshots of this web app in its "UserInterfaceScreenshots" folder
+
+## License
+
+All rights reserved
